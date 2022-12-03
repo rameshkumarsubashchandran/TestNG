@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T10:47:39Z" name="Default suite" finished-at="2022-12-02T10:48:12Z" duration-ms="32536">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T10:47:39Z" name="Default test" finished-at="2022-12-02T10:48:12Z" duration-ms="32536">
+      <class name="org.amazonportal.MobileOrder">
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:39Z" name="browserlaunch" finished-at="2022-12-02T10:47:43Z" duration-ms="3510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="launch()[pri:1, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:43Z" name="launch" finished-at="2022-12-02T10:47:47Z" duration-ms="3677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="launchstTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:43Z" name="launchstTime" finished-at="2022-12-02T10:47:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchstTime -->
+        <test-method is-config="true" signature="launchendTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:47Z" name="launchendTime" finished-at="2022-12-02T10:47:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchendTime -->
+        <test-method is-config="true" signature="launchstTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:47Z" name="launchstTime" finished-at="2022-12-02T10:47:47Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchstTime -->
+        <test-method signature="search(java.lang.String)[pri:2, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:47Z" name="search" data-provider="mobiles" finished-at="2022-12-02T10:47:53Z" duration-ms="6483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[one plus mobiles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="launchendTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:53Z" name="launchendTime" finished-at="2022-12-02T10:47:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchendTime -->
+        <test-method signature="selectMobile()[pri:3, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:53Z" name="selectMobile" finished-at="2022-12-02T10:47:58Z" duration-ms="4490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMobile -->
+        <test-method is-config="true" signature="launchstTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:53Z" name="launchstTime" finished-at="2022-12-02T10:47:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchstTime -->
+        <test-method is-config="true" signature="launchendTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:58Z" name="launchendTime" finished-at="2022-12-02T10:47:58Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchendTime -->
+        <test-method signature="windowHandle()[pri:4, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:58Z" name="windowHandle" finished-at="2022-12-02T10:48:01Z" duration-ms="3472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowHandle -->
+        <test-method is-config="true" signature="launchstTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:47:58Z" name="launchstTime" finished-at="2022-12-02T10:47:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchstTime -->
+        <test-method is-config="true" signature="launchendTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:01Z" name="launchendTime" finished-at="2022-12-02T10:48:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchendTime -->
+        <test-method is-config="true" signature="launchstTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:01Z" name="launchstTime" finished-at="2022-12-02T10:48:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchstTime -->
+        <test-method signature="exceloperation()[pri:5, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:01Z" name="exceloperation" finished-at="2022-12-02T10:48:09Z" duration-ms="7446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exceloperation -->
+        <test-method is-config="true" signature="launchendTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:09Z" name="launchendTime" finished-at="2022-12-02T10:48:09Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchendTime -->
+        <test-method is-config="true" signature="launchstTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:09Z" name="launchstTime" finished-at="2022-12-02T10:48:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchstTime -->
+        <test-method signature="addTocart()[pri:6, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:09Z" name="addTocart" finished-at="2022-12-02T10:48:12Z" duration-ms="3345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTocart -->
+        <test-method is-config="true" signature="launchendTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:12Z" name="launchendTime" finished-at="2022-12-02T10:48:12Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchendTime -->
+        <test-method is-config="true" signature="launchstTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:12Z" name="launchstTime" finished-at="2022-12-02T10:48:12Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchstTime -->
+        <test-method signature="refresh()[pri:7, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:12Z" name="refresh" finished-at="2022-12-02T10:48:12Z" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:12Z" name="browserclose" finished-at="2022-12-02T10:48:12Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="launchendTime()[pri:0, instance:org.amazonportal.MobileOrder@558bdf1f]" started-at="2022-12-02T10:48:12Z" name="launchendTime" finished-at="2022-12-02T10:48:12Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchendTime -->
+      </class> <!-- org.amazonportal.MobileOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
